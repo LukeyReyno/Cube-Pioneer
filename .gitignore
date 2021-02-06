@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+webgl_sharing
+.DS_Store
+WebGL Builds/

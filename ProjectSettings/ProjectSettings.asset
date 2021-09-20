@@ -661,10 +661,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: e736bfb3-f1b0-416f-ae43-aeee4c13ff5d
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Cube_Pioneer
+  organizationId: reallytalk
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 1
   disableOldInputManagerSupport: 1
